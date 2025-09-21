@@ -1,9 +1,9 @@
 //header files
 
-import java.sql.Connection;
-import java.sql.DriverManager;
+import java.sql.Connection;        // connection header file
+import java.sql.DriverManager;    // use for sql injectioning
 import java.sql.PreparedStatement;
-import java.util.Scanner;
+import java.util.Scanner;        //common header file 
 
 public class StudentDatabase {
     public static void main(String[] args) {
