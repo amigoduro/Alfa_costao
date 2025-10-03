@@ -10,10 +10,10 @@ public class HeronHeight {
         double a = sc.nextDouble();
 
         System.out.print("Enter side b: ");
-        double b = sc.nextDouble();
+        double b = sc.nextDouble();                // using double for output
 
-        System.out.print("Enter side c: ");
-        double c = sc.nextDouble();
+        System.out.print("Enter side c: ");       // just an output (overall)
+        double c = sc.nextDouble();                // using double for output
 
         // Semi-perimeter from alternate side from my mind
         double s = (a + b + c) / 2;
