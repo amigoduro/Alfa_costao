@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
-public class HeronHeight {
-    public static void main(String[] args) {
+public class HeronHeight
+                        {
+    public static void main(String[] args)
+                                        {
         Scanner sc = new Scanner(System.in);
 
         // Input sides of triangle by user
