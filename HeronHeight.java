@@ -23,6 +23,7 @@ public class HeronHeight {
         
 
         // Height from base a side the   <
+        
         double height = (2 * area) / a;
 
         // Output will be unexpected 
