@@ -35,9 +35,11 @@ public class StudentDatabase {
             Connection con = DriverManager.getConnection(url, user, password);
 
             // Step 3: Insert query
+            
             String query = "INSERT INTO students (name, class, dob, school_name) VALUES (?, ?, ?, ?)";
             PreparedStatement pstmt = con.prepareStatement(query);
 
+            
             pstmt.setString(1, name);
             pstmt.setString(2, className);                        // use moduling in this 
             pstmt.setString(3, dob);
