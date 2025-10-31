@@ -23,8 +23,8 @@ public class PythagorasTheorem {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("=== Pythagoras Theorem Program ===");        // cliopatric  
-        System.out.println("1. Calculate Hypotenuse");
-        System.out.println("2. Calculate Missing Side");
+        System.out.println("1. Calculate Hypotenuse");                   // norminisation
+        System.out.println("2. Calculate Missing Side");                //  redifclition
         System.out.println("3. Check Pythagoras Triplet");
         System.out.print("Enter your choice: ");
         int choice = sc.nextInt();
