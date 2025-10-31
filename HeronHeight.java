@@ -15,6 +15,8 @@ public class HeronHeight
         System.out.print("Enter side b: ");
         double b = sc.nextDouble();                // using double for output
 
+
+                                          
         System.out.print("Enter side c: ");       // just an output (overall)
         double c = sc.nextDouble();                // using double for output
 
