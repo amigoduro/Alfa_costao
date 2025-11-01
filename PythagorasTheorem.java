@@ -18,6 +18,7 @@ public class PythagorasTheorem {
     // Method to check Pythagoras triplet
     static boolean isPythagorasTriplet(int a, int b, int c) {
         return (a*a + b*b == c*c) || (a*a + c*c == b*b) || (b*b + c*c == a*a);
+        
     }
 
     public static void main(String[] args) {
