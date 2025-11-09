@@ -21,9 +21,11 @@ public class HeronHeight
         double c = sc.nextDouble();                // using double for output
 
         // Semi-perimeter from alternate side from my mind
+                                          
         double s = (a + b + c) / 2;
 
         // Area using Heron's formula asusual
+                                          
         double area = Math.sqrt(s * (s - a) * (s - b) * (s - c));        // under root s(s-a)(s-b)(s-c)  the formula of herons
         
 
