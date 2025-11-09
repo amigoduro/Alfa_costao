@@ -59,7 +59,7 @@ public class StudentDatabase {
             pstmt.close();
             con.close();
 
-        } catch (Exception e) {
+        } catch (Exception e) {                        //  it use for error detection
             e.printStackTrace();
         }
 
