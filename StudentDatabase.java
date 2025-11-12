@@ -52,7 +52,9 @@ public class StudentDatabase {
             if (rows > 0) 
                     {
                 System.out.println("Data inserted successfully!");
-                    } else {
+                    } 
+            else
+            {
                 System.out.println("Failed to insert data.");
             }
 
