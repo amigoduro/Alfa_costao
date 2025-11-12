@@ -3,7 +3,7 @@
 import java.sql.Connection;                    // connection header file
 import java.sql.DriverManager;                // use for sql injectioning
 import java.sql.PreparedStatement;           // use for assignation 
-import java.util.Scanner;        //common header file 
+import java.util.Scanner;                   //common header file 
 
 public class StudentDatabase {
     public static void main(String[] args) {
