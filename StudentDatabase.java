@@ -6,6 +6,7 @@ import java.sql.PreparedStatement;           // use for assignation
 import java.util.Scanner;                   //common header file 
 
 public class StudentDatabase {
+    
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
