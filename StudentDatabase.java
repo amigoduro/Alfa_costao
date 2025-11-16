@@ -64,7 +64,7 @@ public class StudentDatabase {
             con.close();
 
         } catch (Exception e) {                        //  it use for error detection
-            e.printStackTrace();
+            e.printStackTrace();                        // call the method
         }
 
         sc.close();
