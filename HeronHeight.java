@@ -21,6 +21,7 @@ public class HeronHeight
 
                                           
         System.out.print("Enter side c: ");       // just an output (overall)
+                                          
         double c = sc.nextDouble();                // using double for output
 
         // Semi-perimeter from alternate side from my mind
