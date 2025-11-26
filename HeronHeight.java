@@ -42,5 +42,6 @@ public class HeronHeight
         System.out.println("\n--- Results ---");
         System.out.println("Area of Triangle: " + area);
         System.out.println("Height from base (a): " + height);
-    }
+    
+                                        }
 }
