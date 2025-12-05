@@ -10,6 +10,7 @@ public class PythagorasTheorem
 
                                                         
         return Math.sqrt((a * a) + (b * b));
+                                                      
     }
 
     // Method to calculate missing side
