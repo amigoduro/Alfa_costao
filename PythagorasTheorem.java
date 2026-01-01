@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class PythagorasTheorem  
+public class PythagorasTheorem   
 
   
                                 {
