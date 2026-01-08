@@ -8,7 +8,7 @@ public class HeronHeight
                                         {
                                           
         Scanner sc = new Scanner(System.in);
-
+ 
         // Input sides of triangle by user
 
         System.out.print("Enter side a (base): ");
