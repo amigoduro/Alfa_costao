@@ -4,7 +4,7 @@ public class PythagorasTheorem
  
   
                                 {
-    
+       
     // Method to calculate hypotenuse  
                                   
     static double calculateHypotenuse(double a, double b)                     // paramaters
