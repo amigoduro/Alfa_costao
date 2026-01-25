@@ -58,6 +58,7 @@ public class PythagorasTheorem
                 System.out.println("Missing side = " + calculateSide(h, s));
                 break;
 
+                         
             case 3:
                 System.out.print("Enter first number: ");
                 int x = sc.nextInt();
