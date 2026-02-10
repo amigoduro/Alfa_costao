@@ -47,7 +47,7 @@ public class StudentDatabase
             pstmt.setString(1, name);
             pstmt.setString(2, className);                        // use moduling in this 
             pstmt.setString(3, dob);
-            pstmt.setString(4, schoolName);
+            pstmt.setString(4, schoolName);                      // 
 
             // Step 4: Execute
             int rows = pstmt.executeUpdate();
