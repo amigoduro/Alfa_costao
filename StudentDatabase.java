@@ -7,6 +7,7 @@ import java.util.Scanner;                   //common header file
  
 public class StudentDatabase     
                             {
+                              
     
     public static void main(String[] args) {
         
