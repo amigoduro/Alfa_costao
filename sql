@@ -11,5 +11,6 @@ CREATE TABLE students (
     dob DATE,
     school_name VARCHAR(150)
 
-    
+
+     
 );
