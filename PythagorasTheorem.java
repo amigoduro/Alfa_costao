@@ -2,6 +2,7 @@ import java.util.Scanner;
  
 public class PythagorasTheorem  
  
+ 
                                 {
        
     // Method to calculate hypotenuse  
