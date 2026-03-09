@@ -1,9 +1,6 @@
 import java.util.Scanner;          /// input file
 
 public class HeronHeight
-
-  
-  
                         {
     public static void main(String[] args)
                           
