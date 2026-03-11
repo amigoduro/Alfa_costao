@@ -30,7 +30,7 @@ public class HeronHeight
 
         // Area using Heron's formula asusual
                                           
-        double area = Math.sqrt(s * (s - a) * (s - b) * (s - c));        // under root s(s-a)(s-b)(s-c)  the formula of herons
+        double area = Math.sqrt(s * (s - a) * (s - b) * (s - c));           // under root s(s-a)(s-b)(s-c)  the formula of herons
         
 
         // Height from base a side the   <
