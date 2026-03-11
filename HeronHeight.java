@@ -10,7 +10,7 @@ public class HeronHeight
  
         // Input sides of triangle by user
 
-        System.out.print("Enter side a (base): ");
+        System.out.print("Enter side a (base): ");  
                                           
         double a = sc.nextDouble();
 
