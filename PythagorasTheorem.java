@@ -13,7 +13,7 @@ public class PythagorasTheorem
                                                       
     }
 
-    // Method to calculate missing side
+    // Method to calculate missing side   
     static double calculateSide(double hypotenuse, double side)              // parameters 
                                                             {
         return Math.sqrt((hypotenuse * hypotenuse) - (side * side));   //this is an pre-define function and also for this we can use our logic too ...
